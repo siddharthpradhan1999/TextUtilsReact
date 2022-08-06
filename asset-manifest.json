@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/siddharthpradhan1999/TextUtilsReact.git/static/css/main.abd64e84.css",
+    "main.js": "/siddharthpradhan1999/TextUtilsReact.git/static/js/main.1e50319e.js",
+    "static/js/787.719ec76d.chunk.js": "/siddharthpradhan1999/TextUtilsReact.git/static/js/787.719ec76d.chunk.js",
+    "index.html": "/siddharthpradhan1999/TextUtilsReact.git/index.html",
+    "main.abd64e84.css.map": "/siddharthpradhan1999/TextUtilsReact.git/static/css/main.abd64e84.css.map",
+    "main.1e50319e.js.map": "/siddharthpradhan1999/TextUtilsReact.git/static/js/main.1e50319e.js.map",
+    "787.719ec76d.chunk.js.map": "/siddharthpradhan1999/TextUtilsReact.git/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.1e50319e.js"
+  ]
+}
